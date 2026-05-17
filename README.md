@@ -1,2 +1,2 @@
-# Power-BI-First-Project
+# Power_BI_Dashboards_Projects
 As a part of the Data Analyst Bootcamp, I created the Power BI project, following the YouTube channel named "Alex The Analyst".  After learning about power query, Dax, Drill down, visualization, I created the project according to the instruction of Mr. Alex to sharpen my Power BI skill. This is my first project on Power BI, which shows my visualiztion skill using Power BI. 
